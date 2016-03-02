@@ -7,15 +7,20 @@
     "blog"
   ],
   "homepage": "https://github.com/krasilich/magento2_blog",
+  "authors": [
+    {
+      "name": "Igor Krasilich",
+      "email": "igor.krasilich@gmail.com",
+      "homepage": "http://krasilich.com"
+    }
+  ],
+  "type": "magento2-module",
+  "version": "0.1.0-dev",
+  "license": "MIT",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0",
     "magento/framework": "100.0.*"
   },
-  "type": "magento2-module",
-  "version": "0.1.0-dev",
-  "license": [
-    "MIT"
-  ],
   "autoload": {
     "files": [
       "registration.php"
