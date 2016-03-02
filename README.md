@@ -1,1 +1,1 @@
-# magento2_blog
+# One More Training (means useless) Blog Extension for Magento2
